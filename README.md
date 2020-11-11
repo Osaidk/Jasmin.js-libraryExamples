@@ -2,7 +2,7 @@
 
 <h1> Installation and Setups </h1>
 
-<h3> If Install Locally: </h3>
+<h3> To Install Locally: </h3>
 
   * npm install --save-dev jasmine (installing)
 
@@ -20,3 +20,9 @@
 
 
 <h3> Setup: </h3>
+
+  * The first step in setting up jasmine, is to create the project folder and navigate inside it.
+  
+  ```
+  $ mkdir jasmine-project $ cd jasmine-project
+  ```
