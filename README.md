@@ -24,5 +24,8 @@
   * The first step in setting up jasmine, is to create the project folder and navigate inside it.
   
   ```
-  $ mkdir jasmine-project $ cd jasmine-project
+  $ mkdir jasmine-project
+  ```
+  ```
+ $ cd jasmine-project
   ```
