@@ -2,17 +2,21 @@
 
 <h1> Installation and Setups </h1>
 
-If Install Locally:
+<h3> If Install Locally: </h3>
 
-npm install --save-dev jasmine (installing)
+⋅⋅* npm install --save-dev jasmine (installing)
 
-npx jasmine init (init a project)
+⋅⋅* npx jasmine init (init a project)
 
-jasmine examples (generating examples)
+⋅⋅* jasmine examples (generating examples)
 
 <h3> To Install Globally: </h3>
-<li> npm install -g jasmine (installing) <h5> Note: in some cases, you have to use sudo to install globally </h5> </li>
-<li> jasmine init (init a project) </li>
-<li> jasmine examples (generating examples) </li>
+
+⋅⋅* npm install -g jasmine (installing)
+
+⋅⋅* jasmine init (init a project)
+
+⋅⋅* jasmine examples (generating examples)
+
 
 <h3> Setup: </h3>
