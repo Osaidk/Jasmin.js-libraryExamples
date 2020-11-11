@@ -8,6 +8,6 @@
 <li> jasmine examples (generating examples) </li>
 
 <h3> To Install Globally: </h3>
-<li> npm install -g jasmine (installing) <span style="font: italic">Note: in some cases, you have to use sudo to install globally.</span> </li>
+<li> npm install -g jasmine (installing) <span style="color: red">Note: in some cases, you have to use sudo to install globally.</span> </li>
 <li> jasmine init (init a project) </li>
 <li> jasmine examples (generating examples) </li>
