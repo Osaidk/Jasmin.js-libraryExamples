@@ -3,8 +3,11 @@
 <h1> Installation and Setups </h1>
 
 If Install Locally:
+
 npm install --save-dev jasmine (installing)
+
 npx jasmine init (init a project)
+
 jasmine examples (generating examples)
 
 <h3> To Install Globally: </h3>
