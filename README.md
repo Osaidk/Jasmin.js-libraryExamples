@@ -29,3 +29,18 @@
   ```
  $ cd jasmine-project
   ```
+  * Then you need to initialize your project for jasmine, this will create the required spec directory, using this command:
+  
+  ```
+ $ jasmine init
+  ```
+  
+  * You also need to initialize node for your project to populate the package.json file with default information, using this command:
+  
+   ```
+ $ npm init
+  ```
+  
+Now the library is ready to test your code. Create index.js, where you will have the code to be tested, in the project folder.
+
+Create MyJSUtilities.js inside the spec folder, this is where you will include your test code. 
